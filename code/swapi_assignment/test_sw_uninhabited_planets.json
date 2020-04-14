@@ -1,0 +1,266 @@
+[
+  {
+    "url": "https://swapi.py4e.com/api/planets/4/",
+    "name": "Hoth",
+    "gravity": "1.1 standard",
+    "climate": [
+      "frozen"
+    ],
+    "terrain": [
+      "tundra",
+      "ice caves",
+      "mountain ranges"
+    ],
+    "surface_water": 100,
+    "population": "n/a"
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/5/",
+    "name": "Dagobah",
+    "gravity": "N/A",
+    "climate": [
+      "murky"
+    ],
+    "terrain": [
+      "swamp",
+      "jungles"
+    ],
+    "surface_water": 8,
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/20/",
+    "name": "Stewjon",
+    "gravity": "1 standard",
+    "climate": [
+      "temperate"
+    ],
+    "terrain": [
+      "grass"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/28/",
+    "name": "unknown",
+    "gravity": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "terrain": [
+      "unknown"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/38/",
+    "name": "Aleen Minor",
+    "gravity": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "terrain": [
+      "unknown"
+    ],
+    "surface_water": "unknown",
+    "population": "Unknown"
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/40/",
+    "name": "Troiken",
+    "gravity": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "terrain": [
+      "desert",
+      "tundra",
+      "rainforests",
+      "mountains"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/41/",
+    "name": "Tund",
+    "gravity": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "terrain": [
+      "barren",
+      "ash"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/45/",
+    "name": "Iridonia",
+    "gravity": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "terrain": [
+      "rocky canyons",
+      "acid pools"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/46/",
+    "name": "Tholoth",
+    "gravity": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "terrain": [
+      "unknown"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/47/",
+    "name": "Iktotch",
+    "gravity": "1",
+    "climate": [
+      "arid",
+      "rocky",
+      "windy"
+    ],
+    "terrain": [
+      "rocky"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/48/",
+    "name": "Quermia",
+    "gravity": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "terrain": [
+      "unknown"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown "
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/49/",
+    "name": "Dorin",
+    "gravity": "1",
+    "climate": [
+      "temperate"
+    ],
+    "terrain": [
+      "unknown"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/51/",
+    "name": "Mirial",
+    "gravity": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "terrain": [
+      "deserts"
+    ],
+    "surface_water": "unknown",
+    "population": " unknown"
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/52/",
+    "name": "Serenno",
+    "gravity": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "terrain": [
+      "rainforests",
+      "rivers",
+      "mountains"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/53/",
+    "name": "Concord Dawn",
+    "gravity": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "terrain": [
+      "jungles",
+      "forests",
+      "deserts"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/54/",
+    "name": "Zolan",
+    "gravity": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "terrain": [
+      "unknown"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/58/",
+    "name": "Shili",
+    "gravity": "1",
+    "climate": [
+      "temperate"
+    ],
+    "terrain": [
+      "cities",
+      "savannahs",
+      "seas",
+      "plains"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/60/",
+    "name": "Umbara",
+    "gravity": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "terrain": [
+      "unknown"
+    ],
+    "surface_water": "unknown",
+    "population": "n/a"
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/61/",
+    "name": "Jakku",
+    "gravity": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "terrain": [
+      "deserts"
+    ],
+    "surface_water": "unknown",
+    "population": "N/A"
+  }
+]

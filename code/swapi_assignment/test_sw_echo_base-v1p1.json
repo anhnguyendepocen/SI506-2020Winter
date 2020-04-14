@@ -1,0 +1,436 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Echo_Base/Legends",
+  "name": "Echo Base",
+  "operational_status": "active",
+  "location": {
+    "url": "https://starwars.fandom.com/wiki/Hoth/Legends",
+    "name": "Hoth",
+    "gravity": "1.1 standard",
+    "climate": [
+      "frozen"
+    ],
+    "terrain": [
+      "tundra",
+      "ice caves",
+      "mountain ranges"
+    ],
+    "surface_water": 100,
+    "population": "unknown"
+  },
+  "facilities": [
+    "command center",
+    "hanger",
+    "medical lab",
+    "power generator"
+  ],
+  "garrison": {
+    "url": "https://starwars.fandom.com/wiki/Echo_Base/Legends/garrison",
+    "name": "Echo Base garrison",
+    "commander": {
+      "url": "https://starwars.fandom.com/wiki/Carlist_Rieekan/Legends",
+      "name": "Carlist Rieekan",
+      "birth_year": "47 BBY",
+      "height": 180.0,
+      "mass": 180.0,
+      "homeworld": {
+        "url": "https://swapi.py4e.com/api/planets/2/",
+        "name": "Alderaan",
+        "gravity": "1 standard",
+        "climate": [
+          "temperate"
+        ],
+        "terrain": [
+          "grasslands",
+          "mountains"
+        ],
+        "surface_water": 40,
+        "population": 2000000000
+      },
+      "species": {
+        "url": "https://swapi.py4e.com/api/species/1/",
+        "name": "Human",
+        "classification": "mammal",
+        "designation": "sentient",
+        "language": "Galactic Basic"
+      }
+    },
+    "personnel": {
+      "military": 7500,
+      "medical": 350,
+      "droids": 120
+    }
+  },
+  "fixed_defenses": [
+    "theater shield",
+    "v-150 Planet Defender ion cannon",
+    "1.4 FD P-Tower anti-vehicle laser cannons",
+    "DF.9 anti-infantry laser cannons",
+    "trenches and weapons emplacements"
+  ],
+  "air_space_assets": [
+    {
+      "asset_class": "starfighter",
+      "model": "T-65 X-wing",
+      "num_available": 48
+    },
+    {
+      "asset_class": "assault starfighter",
+      "model": "BTL Y-wing",
+      "num_available": 12
+    },
+    {
+      "asset_class": "airspeeder",
+      "model": "t-47 airspeeder",
+      "num_available": 12
+    },
+    {
+      "asset_class": "medium transport",
+      "model": "GR-75 medium transport",
+      "num_available": 30
+    },
+    {
+      "asset_class": "light freighter",
+      "model": "YT-1300fp light freighter",
+      "num_available": 1
+    }
+  ],
+  "evacuation_plan": {
+    "url": "https://starwars.fandom.com/wiki/Echo_Base/Legends/evac_plan",
+    "name": "Echo Base Evacuation Plan",
+    "classification": "Top Secret",
+    "year_era": "3 ABY",
+    "description": "Calculate percentage of garrison that can be evacuated in one lift given available transport assets and overload capability. Assign crews and passengers as well as escort craft.",
+    "garrison_personnel_count": 7970,
+    "num_available_transports": 30,
+    "passenger_overload_multiplier": 3,
+    "max_passenger_overload_capacity": 8100,
+    "transport_assignments": [
+      {
+        "url": "https://swapi.py4e.com/api/starships/17/",
+        "name": "Bright Hope",
+        "model": "GR-75 medium transport",
+        "starship_class": "Medium transport",
+        "length": 90.0,
+        "max_atmosphering_speed": 650.0,
+        "hyperdrive_rating": 4.0,
+        "MGLT": 20,
+        "armament": [
+          "4 x twin fire-linked laser cannon turrets"
+        ],
+        "crew": 6,
+        "passengers": 90,
+        "consumables": "6 months",
+        "cargo_capacity": 19000000,
+        "crew_members": {
+          "pilot": {
+            "url": "https://swapi.py4e.com/people/1000/",
+            "name": "Araly Denau",
+            "birth_year": "25BBY",
+            "height": 178.0,
+            "mass": 178.0,
+            "homeworld": {
+              "url": "https://swapi.py4e.com/api/planets/22/",
+              "name": "Corellia",
+              "gravity": "1 standard",
+              "climate": [
+                "temperate"
+              ],
+              "terrain": [
+                "plains",
+                "urban",
+                "hills",
+                "forests"
+              ],
+              "surface_water": 70,
+              "population": 3000000000
+            },
+            "species": {
+              "url": "https://swapi.py4e.com/api/species/1/",
+              "name": "Human",
+              "classification": "mammal",
+              "designation": "sentient",
+              "language": "Galactic Basic"
+            }
+          },
+          "co-pilot": {
+            "url": "https://swapi.py4e.com/people/1001/",
+            "name": "Teckla Lerga",
+            "birth_year": "20BBY",
+            "height": 171.0,
+            "mass": 171.0,
+            "homeworld": {
+              "url": "https://swapi.py4e.com/api/planets/8/",
+              "name": "Naboo",
+              "gravity": "1 standard",
+              "climate": [
+                "temperate"
+              ],
+              "terrain": [
+                "grassy hills",
+                "swamps",
+                "forests",
+                "mountains"
+              ],
+              "surface_water": 12,
+              "population": 4500000000
+            },
+            "species": {
+              "url": "https://swapi.py4e.com/api/species/1/",
+              "name": "Human",
+              "classification": "mammal",
+              "designation": "sentient",
+              "language": "Galactic Basic"
+            }
+          },
+          "navigator": {
+            "url": "https://swapi.py4e.com/people/1002/",
+            "name": "Rego Syko",
+            "birth_year": "22BBY",
+            "height": 180.0,
+            "mass": 180.0,
+            "homeworld": {
+              "url": "https://swapi.py4e.com/api/planets/2/",
+              "name": "Alderaan",
+              "gravity": "1 standard",
+              "climate": [
+                "temperate"
+              ],
+              "terrain": [
+                "grasslands",
+                "mountains"
+              ],
+              "surface_water": 40,
+              "population": 2000000000
+            },
+            "species": {
+              "url": "https://swapi.py4e.com/api/species/1/",
+              "name": "Human",
+              "classification": "mammal",
+              "designation": "sentient",
+              "language": "Galactic Basic"
+            }
+          }
+        },
+        "passenger_manifest": [
+          {
+            "url": "https://swapi.py4e.com/api/people/5/",
+            "name": "Leia Organa",
+            "birth_year": "19BBY",
+            "height": 150.0,
+            "mass": 150.0,
+            "homeworld": {
+              "url": "https://swapi.py4e.com/api/planets/2/",
+              "name": "Alderaan",
+              "gravity": "1 standard",
+              "climate": [
+                "temperate"
+              ],
+              "terrain": [
+                "grasslands",
+                "mountains"
+              ],
+              "surface_water": 40,
+              "population": 2000000000
+            },
+            "species": {
+              "url": "https://swapi.py4e.com/api/species/1/",
+              "name": "Human",
+              "classification": "mammal",
+              "designation": "sentient",
+              "language": "Galactic Basic"
+            }
+          },
+          {
+            "url": "https://swapi.py4e.com/api/people/2/",
+            "name": "C-3PO",
+            "birth_year": "112BBY",
+            "height": 167.0,
+            "mass": 167.0,
+            "homeworld": {
+              "url": "https://swapi.py4e.com/api/planets/1/",
+              "name": "Tatooine",
+              "gravity": "1 standard",
+              "climate": [
+                "arid"
+              ],
+              "terrain": [
+                "desert"
+              ],
+              "surface_water": 1,
+              "population": 200000
+            },
+            "species": {
+              "url": "https://swapi.py4e.com/api/species/2/",
+              "name": "Droid",
+              "classification": "artificial",
+              "designation": "sentient",
+              "language": "n/a"
+            }
+          }
+        ]
+      }
+    ],
+    "transport_escorts": [
+      {
+        "url": "https://swapi.py4e.com/api/starships/12/",
+        "name": "X-wing",
+        "model": "T-65 X-wing",
+        "starship_class": "Starfighter",
+        "length": 12.5,
+        "max_atmosphering_speed": 1050.0,
+        "hyperdrive_rating": 1.0,
+        "MGLT": 100,
+        "armament": [
+          "4 x Taim & Bak KX9 or IX4 laser cannons",
+          "2 x Krupx MG7 proton torpedo launchers (3 torpedoes each)"
+        ],
+        "crew": 1,
+        "passengers": 0,
+        "consumables": "1 week",
+        "cargo_capacity": 110,
+        "crew_members": {
+          "pilot": {
+            "url": "https://swapi.py4e.com/api/people/1/",
+            "name": "Luke Skywalker",
+            "birth_year": "19BBY",
+            "height": 172.0,
+            "mass": 172.0,
+            "homeworld": {
+              "url": "https://swapi.py4e.com/api/planets/1/",
+              "name": "Tatooine",
+              "gravity": "1 standard",
+              "climate": [
+                "arid"
+              ],
+              "terrain": [
+                "desert"
+              ],
+              "surface_water": 1,
+              "population": 200000
+            },
+            "species": {
+              "url": "https://swapi.py4e.com/api/species/1/",
+              "name": "Human",
+              "classification": "mammal",
+              "designation": "sentient",
+              "language": "Galactic Basic"
+            }
+          },
+          "astromech_droid": {
+            "url": "https://swapi.py4e.com/api/people/3/",
+            "name": "R2-D2",
+            "birth_year": "33BBY",
+            "height": 96.0,
+            "mass": 96.0,
+            "homeworld": {
+              "url": "https://swapi.py4e.com/api/planets/8/",
+              "name": "Naboo",
+              "gravity": "1 standard",
+              "climate": [
+                "temperate"
+              ],
+              "terrain": [
+                "grassy hills",
+                "swamps",
+                "forests",
+                "mountains"
+              ],
+              "surface_water": 12,
+              "population": 4500000000
+            },
+            "species": {
+              "url": "https://swapi.py4e.com/api/species/2/",
+              "name": "Droid",
+              "classification": "artificial",
+              "designation": "sentient",
+              "language": "n/a"
+            }
+          }
+        },
+        "passenger_manifest": []
+      },
+      {
+        "url": "https://swapi.py4e.com/api/starships/10/",
+        "name": "Millennium Falcon",
+        "model": "YT-1300fp light freighter",
+        "starship_class": "Light freighter",
+        "length": 34.37,
+        "max_atmosphering_speed": 1050.0,
+        "hyperdrive_rating": 0.5,
+        "MGLT": 75,
+        "armament": [
+          "2 x modified Corellian Engineering Corporation AG-2G quad laser cannons",
+          "1 x concealed BlasTech Ax-108 Ground Buzzer surface-defense blaster cannon",
+          "2 x Arakyd ST2 concussion missile tubes (4 missiles each)"
+        ],
+        "crew": 4,
+        "passengers": 6,
+        "consumables": "2 months",
+        "cargo_capacity": 100000,
+        "crew_members": {
+          "pilot": {
+            "url": "https://swapi.py4e.com/api/people/14/",
+            "name": "Han Solo",
+            "birth_year": "29BBY",
+            "height": 180.0,
+            "mass": 180.0,
+            "homeworld": {
+              "url": "https://swapi.py4e.com/api/planets/22/",
+              "name": "Corellia",
+              "gravity": "1 standard",
+              "climate": [
+                "temperate"
+              ],
+              "terrain": [
+                "plains",
+                "urban",
+                "hills",
+                "forests"
+              ],
+              "surface_water": 70,
+              "population": 3000000000
+            },
+            "species": {
+              "url": "https://swapi.py4e.com/api/species/1/",
+              "name": "Human",
+              "classification": "mammal",
+              "designation": "sentient",
+              "language": "Galactic Basic"
+            }
+          },
+          "co-pilot": {
+            "url": "https://swapi.py4e.com/api/people/13/",
+            "name": "Chewbacca",
+            "birth_year": "200BBY",
+            "height": 228.0,
+            "mass": 228.0,
+            "homeworld": {
+              "url": "https://swapi.py4e.com/api/planets/14/",
+              "name": "Kashyyyk",
+              "gravity": "1 standard",
+              "climate": [
+                "tropical"
+              ],
+              "terrain": [
+                "jungle",
+                "forests",
+                "lakes",
+                "rivers"
+              ],
+              "surface_water": 60,
+              "population": 45000000
+            },
+            "species": {
+              "url": "https://swapi.py4e.com/api/species/3/",
+              "name": "Wookiee",
+              "classification": "mammal",
+              "designation": "sentient",
+              "language": "Shyriiwook"
+            }
+          }
+        },
+        "passenger_manifest": []
+      }
+    ]
+  }
+}
