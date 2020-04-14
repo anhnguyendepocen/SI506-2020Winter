@@ -193,8 +193,6 @@ class Person(Entity):
         species (Species): the species to which the person is assigned
 
     Methods:
-        get_homeworld: retrieve home planet
-        get_species: retrieve species
         jsonable: return JSON-friendly dict representation of the object
     """
 
