@@ -516,7 +516,7 @@ GUI for inspecting and reformatting JSON documents.
   "name": "Leia Organa",
   "birth_year": "19BBY",
   "height": 150.0,
-  "mass": 150.0,
+  "mass": 49.0,
   "homeworld": {
     "url": "https://swapi.py4e.com/api/planets/2/",
     "name": "Alderaan",
