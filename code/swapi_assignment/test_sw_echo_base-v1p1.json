@@ -31,7 +31,7 @@
       "name": "Carlist Rieekan",
       "birth_year": "47 BBY",
       "height": 180.0,
-      "mass": 180.0,
+      "mass": "unknown",
       "homeworld": {
         "url": "https://swapi.py4e.com/api/planets/2/",
         "name": "Alderaan",
@@ -127,7 +127,7 @@
             "name": "Araly Denau",
             "birth_year": "25BBY",
             "height": 178.0,
-            "mass": 178.0,
+            "mass": 63.0,
             "homeworld": {
               "url": "https://swapi.py4e.com/api/planets/22/",
               "name": "Corellia",
@@ -157,7 +157,7 @@
             "name": "Teckla Lerga",
             "birth_year": "20BBY",
             "height": 171.0,
-            "mass": 171.0,
+            "mass": 66.0,
             "homeworld": {
               "url": "https://swapi.py4e.com/api/planets/8/",
               "name": "Naboo",
@@ -187,7 +187,7 @@
             "name": "Rego Syko",
             "birth_year": "22BBY",
             "height": 180.0,
-            "mass": 180.0,
+            "mass": 90.0,
             "homeworld": {
               "url": "https://swapi.py4e.com/api/planets/2/",
               "name": "Alderaan",
@@ -217,7 +217,7 @@
             "name": "Leia Organa",
             "birth_year": "19BBY",
             "height": 150.0,
-            "mass": 150.0,
+            "mass": 49.0,
             "homeworld": {
               "url": "https://swapi.py4e.com/api/planets/2/",
               "name": "Alderaan",
@@ -245,7 +245,7 @@
             "name": "C-3PO",
             "birth_year": "112BBY",
             "height": 167.0,
-            "mass": 167.0,
+            "mass": 75.0,
             "homeworld": {
               "url": "https://swapi.py4e.com/api/planets/1/",
               "name": "Tatooine",
@@ -294,7 +294,7 @@
             "name": "Luke Skywalker",
             "birth_year": "19BBY",
             "height": 172.0,
-            "mass": 172.0,
+            "mass": 77.0,
             "homeworld": {
               "url": "https://swapi.py4e.com/api/planets/1/",
               "name": "Tatooine",
@@ -321,7 +321,7 @@
             "name": "R2-D2",
             "birth_year": "33BBY",
             "height": 96.0,
-            "mass": 96.0,
+            "mass": 32.0,
             "homeworld": {
               "url": "https://swapi.py4e.com/api/planets/8/",
               "name": "Naboo",
@@ -373,7 +373,7 @@
             "name": "Han Solo",
             "birth_year": "29BBY",
             "height": 180.0,
-            "mass": 180.0,
+            "mass": 80.0,
             "homeworld": {
               "url": "https://swapi.py4e.com/api/planets/22/",
               "name": "Corellia",
@@ -403,7 +403,7 @@
             "name": "Chewbacca",
             "birth_year": "200BBY",
             "height": 228.0,
-            "mass": 228.0,
+            "mass": 112.0,
             "homeworld": {
               "url": "https://swapi.py4e.com/api/planets/14/",
               "name": "Kashyyyk",
